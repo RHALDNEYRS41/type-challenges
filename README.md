@@ -31,7 +31,7 @@ This project is aimed at helping you better understand how the type system works
 
 You can also use some existing type utility libraries such as [type-fest](https://github.com/sindresorhus/type-fest). There are also some stale packages (not actively maintained) that you could reference, like  [utility-types](https://github.com/piotrwitek/utility-types), [ts-toolbelt](https://github.com/millsp/ts-toolbelt), [SimplyTyped](https://github.com/andnp/SimplyTyped).
 
-## Challenges
+## Challenges.
 
 > Click the following badges to see details of the challenges.
 
